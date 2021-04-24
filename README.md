@@ -3,7 +3,7 @@ This project is a Create-Read-Update-Delete app made in react. It has a user aut
 ### -> Created the React App with create-react-app
 Added CSS from "https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" to index.html.
 ### -> View App
-To run the app (uploaded on code sandbox) go here: https://7p8rm.csb.app/
+To run the app (uploaded on code sandbox) go here: https://7792k.csb.app/
 To login use:
 email: eve.holt@reqres.in
 password: cityslicka
