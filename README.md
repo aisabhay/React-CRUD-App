@@ -8,7 +8,7 @@ Added CSS from "https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.m
 
 ### -> View App
 
-To run the app (uploaded on code sandbox) go here: https://1it6u.csb.app/
+To run the app (uploaded on code sandbox) go here: https://kto3z.csb.app/
 To login use:
 email: eve.holt@reqres.in
 password: cityslicka
